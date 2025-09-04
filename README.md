@@ -10,7 +10,7 @@ The task was to create a **social media post (Instagram/Facebook)** for an event
 ## 🎨 Task Overview
 - **Brand Chosen:** Nike  
 - **Campaign Type:** Sale Promotion (50% Off Sports Shoes)  
-- **Platform:** Instagram Post (1080x1080 px)  
+- **Platform:** Instagram Post (1080x1350 px)  
 - **Design Style:** Minimal, clean, and product-focused  
 - **Tools Used:** Adobe Photoshop  
 

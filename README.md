@@ -26,7 +26,7 @@ Here’s the final design preview:
 
 ## 📂 Files Included
 - `Nike Brand Shoes Post.jpg` → Final design (ready for posting)  
-- `Nike Brand Shoes Post.rar` → Editable Photoshop source file  
+- `Nike Brand Shoes Post.zip` → Editable Photoshop source file  
 
 ---
 
